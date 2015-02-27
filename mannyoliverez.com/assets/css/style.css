@@ -11,7 +11,7 @@ h1, h2, h3{
 	font-weight: 300;
 	letter-spacing: 6px;
 	line-height: 2em;
-	padding: 3em 0;
+	padding: 2.2em 0;
 	margin: 0;
 }
 
@@ -170,7 +170,7 @@ nav {
 }
 
 nav ul li a {
-	margin: 2em 0;
+	margin: 1.4em 0;
 	float: right;
 	font-family: "raleway", sans-serif;
 	font-weight: 400;
@@ -198,7 +198,7 @@ nav .active a {
 
 .navname {
 	position: absolute;
-	top:35%;
+	top:31%;
 	left: 2%;
 	opacity: 0;
 	font-weight: 700;
@@ -224,7 +224,7 @@ nav .navname a {
 	top: 100%;
    width: 100%;
    z-index: 40;
-	margin-top: -4.5em;
+	margin-top: -3.5em;
 	overflow-y: hidden;
 }
 
@@ -1026,6 +1026,8 @@ nav ul li a {
     line-height: 1.4em;
     padding: 0 0 1.5em;
 }
+.content_overlay h2 {
+    font-size: 2.1em;
 }
 
 @media screen and (max-width: 770px) {
